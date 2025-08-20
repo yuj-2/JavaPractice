@@ -6,6 +6,8 @@ public class Scanner01 {
 
 	public static void main(String[] args) {
 		// 홍길동 98 79 37 한번에 입력
+		
+		
 		String name;
 		int kor,eng,mat,tot;
 		double avg;
